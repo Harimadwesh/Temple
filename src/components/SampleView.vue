@@ -23,7 +23,7 @@
           </div>
 
           <div class="col-md-6 gx-5 mb-4">
-            <h4><strong>Facilis consequatur eligendi</strong></h4>
+            <h4><strong>Testing</strong></h4>
             <p class="text-muted">
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis
               consequatur eligendi quisquam doloremque vero ex debitis veritatis
@@ -141,7 +141,7 @@
       <!--Section: Content-->
       <section class="mb-5">
         <h4 class="mb-5 text-center">
-          <strong>Facilis consequatur eligendi</strong>
+          <strong>Testing</strong>
         </h4>
 
         <div class="row d-flex justify-content-center">
